@@ -260,7 +260,7 @@ Sistema de teste para treinar os novos estagiários do LabTIC
    ## O Sistema
     
  O que pokémon?? sim meu caro, você irá fazer uma pokédex com os mais diferentes animais desse mundinho fantástico, e fica a dica se você por o <b>Osvaldo</b> como um pokémon do tipo BUG você ganha 10 pontos no projeto!
-   Dentro do arquivo pokemon.js nós iremos fazer nossa primeira requisição http, sim aquela que vamos contar pros amigos com orgulho, então bora digitar o código dentro do arqui[v](https://github.com/labimboca/academy#um-agradecimento-dos-estagi%C3%A1ros-do-lab-e, "bonusssssss!!!")o
+   Dentro do arquivo pokemon.js nós iremos fazer nossa primeira requisição http, sim aquela que vamos contar pros amigos com orgulho, então bora digitar o código dentro do arqui[v](https://github.com/labimboca/academy#um-agradecimento-dos-estagi%C3%A1ros-do-lab-e)o
    
 ```javascript  
     let express = require('express');
@@ -382,7 +382,7 @@ Sistema de teste para treinar os novos estagiários do LabTIC
  ##### O que é o postman?
  Basicamente é uma ferramente que testa as nossas requisicoes http restful, ou seja, web api’s, também conseguimos ver o que estamos mandando de dado de volta, então bora lá, da pra ver (e ta escrito) o lugar que você precisa botar a request e do lado esquerdo disso tem o ‘tipo’ da requisição que irá ser testada, no caso do nosso sitema temos GET, POST, PUT, DELETE, então botaremos ali o http://127.0.0.1:3000/pokemon então primeiro de tudo vamos começar com o post para popular o banco, os dados vao em body e x-www-form-urlencoded voce precisa mandar o que é obrigatório lá do model, a dica aqui é que se for um array voce manda a mesma key em diferentes linhas e cada value um valor do que você quer postar. 
  
-Como explicação, quando você envia os dados no body da requisição o backend recebe um objeto e então mandamos esse objeto pro banco na função create e o mongodb faz a mágica! Depois de fazer esse POST teste o GET e veja se está voltando certinho o objeto que acabou de ser cri[a](https://github.com/labimboca/academy#um-agradecimento-dos-estagi%C3%A1ros-do-lab-e, "bonussssssss!!")do, caso de um erro tente entender esse erro e criar o pokemon novo do jeito certo, uma dica se estiver sem criatividade é o site https://pokedex.org la tem os dados que o banco precisa.<br>
+Como explicação, quando você envia os dados no body da requisição o backend recebe um objeto e então mandamos esse objeto pro banco na função create e o mongodb faz a mágica! Depois de fazer esse POST teste o GET e veja se está voltando certinho o objeto que acabou de ser cri[a](https://github.com/labimboca/academy#um-agradecimento-dos-estagi%C3%A1ros-do-lab-e)do, caso de um erro tente entender esse erro e criar o pokemon novo do jeito certo, uma dica se estiver sem criatividade é o site https://pokedex.org la tem os dados que o banco precisa.<br>
 
   # Iniciando o frontend
 
