@@ -35,15 +35,15 @@ Sistema de teste para treinar os novos estagiários do LabTIC
  
   ## Sumário
   
-  * [Backend](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#iniciando-o-backend)
-  * [Sistema](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#o-sistema)
-  * [Model](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#model)
-  * [Rotas](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#rotas)
-  * [Testando Requisições](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#testando-as-requisi%C3%A7%C3%B5es)
-  * [Frontend](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#iniciando-o-frontend)
-  * [Componentes](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#criando-os-componentes)
-  * [Rotas](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#adicionando-as-rotas-no-index)
-  * [Dicas](https://github.com/lucaslovato/labimbocaAcademy/blob/master/README.md#dica-do-dia)
+  * [Backend](https://github.com/labimboca/academy#iniciando-o-backend)
+  * [Sistema](https://github.com/labimboca/academy#o-sistema)
+  * [Model](https://github.com/labimboca/academy#model)
+  * [Rotas](https://github.com/labimboca/academy#rotas)
+  * [Testando Requisições](https://github.com/labimboca/academy#testando-as-requisi%C3%A7%C3%B5es)
+  * [Frontend](https://github.com/labimboca/academy#iniciando-o-frontend)
+  * [Componentes](https://github.com/labimboca/academy#criando-as-rotas)
+  * [Rotas](https://github.com/labimboca/academy#adicionando-as-rotas-no-index)
+  * [Dicas](https://github.com/labimboca/academy#dica-do-dia)
 
   
   # Configuração do Ambiente:
@@ -93,7 +93,7 @@ Sistema de teste para treinar os novos estagiários do LabTIC
    Agora vamos criar uma pasta chamada bin e nela um arquivo chamado www na raiz da pasta do projeto Vue.js
    
     mkdir bin
-    touch bin/www
+    touch bin/www.js
    
    Abra e edite o arquivo www com as seguintes linhas de código. Aqui nesse arquivo que a magia ta acontecendo!
  
